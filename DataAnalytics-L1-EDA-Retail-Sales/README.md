@@ -1,5 +1,5 @@
 # EDA - Retail Sales Analysis Dashboard
-**OIBSIP Data Analytics Internship | Level 1 Task**
+**OIBSIP Data Analytics Internship | Level 1 Task 1**
 
 ### 📌 Project Overview
 This project performs Exploratory Data Analysis (EDA) on Retail Sales data to identify sales trends, top-performing categories, customer demographics, and pricing strategies. An interactive dashboard was created using Plotly.
